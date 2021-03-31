@@ -1,0 +1,16 @@
+#footer{
+    background-color: #808080;
+}
+footer ul{
+    list-style: none;
+    bottom: 0;
+}
+.socialicon{
+    color:rgba(255, 255, 255, .8);
+    font-size: 3em;
+    margin-right: 9px;
+    
+}
+.socialicon:hover{
+    color: red;
+}
