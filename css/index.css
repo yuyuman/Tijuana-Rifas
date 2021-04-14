@@ -14,3 +14,10 @@ footer ul{
 .socialicon:hover{
     color: red;
 }
+
+#carouselVersa img{
+    height: 45vh;
+}
+#versaimg{
+    width: 100%;
+}
